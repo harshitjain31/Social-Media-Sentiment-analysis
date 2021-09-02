@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis
+# Tweet Sentiment Analysis
 
 •	Developed a Machine Learning model that detects the sentiment associated with a particular tweet and detects it as either positive or negative.
 
